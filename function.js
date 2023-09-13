@@ -45,7 +45,8 @@ function calculateSquareWithPrompt() {
     case "broccoli":
       alert("Welcome");
       break;
-      default ("neither")
+      default:
+         alert ("neither")
   }
   // -----------------------------------------------------------------------------------------------//
   let action = "move";
